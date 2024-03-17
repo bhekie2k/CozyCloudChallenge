@@ -10,6 +10,11 @@
 
 <h2>👨‍💻 Cozy Cloud Azure Engineer Beginner Projects:</h2>
 
+- [Launch a free tier Azure Virtual Machine.](https://medium.com/@bhekie2k/launch-a-free-tier-azure-virtual-machine-ad26bdf0b96e)
+- [Create an Azure Blob Storage resource — make sure to use the free tier options. Once the resource is created, try adding a few pictures. Once added, delete all but one. Set different blobs for private and others for public access.](https://medium.com/@bhekie2k/create-an-azure-blob-storage-resource-make-sure-to-use-the-free-tier-options-92a2c50bfa82)
+- [Create an HTML file to blob storage. Configure the blob storage for static website hosting. What is a static website? Is this public or private?](https://medium.com/@bhekie2k/create-an-html-file-to-blob-storage-a2ecb8d4fdce)
+- [Databases! What is SQL Database? What is a NoSQL Database? What are the use cases for both? What is High Availability? Why do you think that it is important to have High Availability with databases?](https://medium.com/@bhekie2k/databases-0c38d1aa75fc)
+
 <h2>🎓 Certifications</h2>
 
 - Microsoft Azure Certified Fundamentals (AZ-900)
@@ -22,10 +27,6 @@
 - CompTIA Security+
 - ITIL® Foundation Certificate in IT Service Management (ITIL V4)
 
-
-<h2>📺 Medium Blogs</h2>
-
-- [Cozy Cloud Beginner Challenge](https://medium.com/@bhekie2k)
 
 <h2> 🤳 Connect with me:</h2>
 [linkedin]: www.linkedin.com/in/bheki-nkomo-b0640147
