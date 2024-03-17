@@ -1,7 +1,7 @@
 <h1>Hi, I'm Bheki! <br/><a href="https://github.com/bhekie2k">Cloud Engineer</a>, <a href="www.linkedin.com/in/bheki-nkomo-b0640147/">ITSM Professional</a>, Service Delivery Lead</a>
 <h2>👨‍💻 Cozy Cloud AWS Engineer Beginner Projects:</h2>
 
- - [Launching EC2 instance steps](https://medium.com/@bhekie2k/launch-an-ec2-instance-in-the-free-tier-65d1480f320f)
+ - [Launching EC2 instance](https://medium.com/@bhekie2k/launch-an-ec2-instance-in-the-free-tier-65d1480f320f)
  - [Create an S3 bucket — make sure to use the free tier options. Once bucket is created, try adding a few pictures. Once added, delete all but one.](https://medium.com/@bhekie2k/create-an-s3-bucket-make-sure-to-use-the-free-tier-options-07de399deab8)
  - [Privacy settings of S3 buckets — see whether your files are public versus private! If they are public, make sure they are privatized.](https://medium.com/@bhekie2k/privacy-settings-of-s3-buckets-see-whether-your-files-are-public-versus-private-9f8bc5976cf8)
  - [Privacy settings of S3 buckets - see whether your files are public versus private! If they are public, make sure they are privatized.](https://medium.com/@bhekie2k/privacy-settings-of-s3-buckets-see-whether-your-files-are-public-versus-private-3af3bf2338d9)
