@@ -1,4 +1,4 @@
-<h1>Hi, I'm Bheki! <br/><a href="https://github.com/bhekie2k">Cloud Engineer</a>, <a href="www.linkedin.com/in/bheki-nkomo-b0640147/">ITSM Professional</a>, 
+<h1>Hi, I'm Bheki! <br/><a href="https://github.com/bhekie2k">Cloud Engineer</a>, <a href="www.linkedin.com/in/bheki-nkomo-b0640147/">ITSM Professional</a>, Service Delivery Lead</a>
 <h2>👨‍💻 Cozy Cloud AWS Engineer Beginner Projects:</h2>
 
  - [Launching EC2 instance steps](https://medium.com/@bhekie2k/launch-an-ec2-instance-in-the-free-tier-65d1480f320f)
