@@ -1,7 +1,15 @@
-### Hi there 👋
+<h1>Hi, I'm Bheki! <br/><a href="https://github.com/bhekie2k">Cloud Engineer</a>, <a href="www.linkedin.com/in/bheki-nkomo-b0640147/">ITSM Professional</a>, 
+<h2>👨‍💻 Cozy Cloud Engineer Beginner Projects:</h2>
+
+<h2>📺 Medium Blogs</h2>
+
+- [Cozy Cloud Beginner Challenge](https://medium.com/@bhekie2k)
+
+<h2> 🤳 Connect with me:</h2>
+[linkedin]: www.linkedin.com/in/bheki-nkomo-b0640147
 
 <!--
-**bhekie2k/bhekie2k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
