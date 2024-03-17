@@ -3,6 +3,19 @@
   
 <h2>👨‍💻 Cozy Cloud Azure Engineer Beginner Projects:</h2>
 
+<h2>🎓 Certifications</h2>
+
+- Microsoft Azure Certified Fundamentals (AZ-900)
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- Microsoft Certified: Azure Solutions Architect Expert (AZ-350)
+- Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Azure AI Fundamentals (AI-900)
+- ISC2 Certified in Cybersecurity (CC)
+- Microsoft Certified Professional (MCSE 2008)
+- CompTIA Security+
+- ITIL® Foundation Certificate in IT Service Management (ITIL V4)
+
+
 <h2>📺 Medium Blogs</h2>
 
 - [Cozy Cloud Beginner Challenge](https://medium.com/@bhekie2k)
