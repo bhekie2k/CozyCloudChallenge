@@ -7,6 +7,7 @@
  - [Privacy settings of S3 buckets - see whether your files are public versus private! If they are public, make sure they are privatized.](https://medium.com/@bhekie2k/privacy-settings-of-s3-buckets-see-whether-your-files-are-public-versus-private-3af3bf2338d9)
  - [Create an HTML file to your S3 Bucket and configure the bucket for static website hosting. What is a static website? Is this public or private?](https://medium.com/@bhekie2k/create-an-html-file-to-your-s3-bucket-and-configure-the-bucket-for-static-website-hosting-eb55c91cd6ab)
  - [Databases! What is SQL Database? What is a NoSQL Database? What are the use cases for both? What is High Availability? Why do you think that it is important to have High Availability with databases?](https://medium.com/@bhekie2k/databases-0c38d1aa75fc)
+ - [IAM and core security concepts.](https://medium.com/@bhekie2k/iam-and-core-security-concepts-d7378884a89b)
 
 <h2>👨‍💻 Cozy Cloud Azure Engineer Beginner Projects:</h2>
 
