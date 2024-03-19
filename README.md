@@ -14,6 +14,7 @@
 - [Create an Azure Blob Storage resource — make sure to use the free tier options. Once the resource is created, try adding a few pictures. Once added, delete all but one. Set different blobs for private and others for public access.](https://medium.com/@bhekie2k/create-an-azure-blob-storage-resource-make-sure-to-use-the-free-tier-options-92a2c50bfa82)
 - [Create an HTML file to blob storage. Configure the blob storage for static website hosting. What is a static website? Is this public or private?](https://medium.com/@bhekie2k/create-an-html-file-to-blob-storage-a2ecb8d4fdce)
 - [Databases! What is SQL Database? What is a NoSQL Database? What are the use cases for both? What is High Availability? Why do you think that it is important to have High Availability with databases?](https://medium.com/@bhekie2k/databases-0c38d1aa75fc)
+- [Create a MySQL database with a sample table. Make sure to use a free tier option.](https://medium.com/@bhekie2k/create-a-mysql-database-with-a-sample-table-make-sure-to-use-a-free-tier-option-76da44fc9e0e)
 
 <h2>🎓 Certifications</h2>
 
