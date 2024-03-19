@@ -16,6 +16,7 @@
 - [Create an HTML file to blob storage. Configure the blob storage for static website hosting. What is a static website? Is this public or private?](https://medium.com/@bhekie2k/create-an-html-file-to-blob-storage-a2ecb8d4fdce)
 - [Databases! What is SQL Database? What is a NoSQL Database? What are the use cases for both? What is High Availability? Why do you think that it is important to have High Availability with databases?](https://medium.com/@bhekie2k/databases-0c38d1aa75fc)
 - [Create a MySQL database with a sample table. Make sure to use a free tier option.](https://medium.com/@bhekie2k/create-a-mysql-database-with-a-sample-table-make-sure-to-use-a-free-tier-option-76da44fc9e0e)
+- [Microsoft Entra ID and core security concepts.](https://medium.com/@bhekie2k/microsoft-entra-id-and-core-security-concepts-7f7ff31d7b53)
 
 <h2>🎓 Certifications</h2>
 
