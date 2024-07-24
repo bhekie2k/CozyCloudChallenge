@@ -24,6 +24,7 @@
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 - Microsoft Certified: Azure Solutions Architect Expert (AZ-350)
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals (SC-900)
+- Microsoft Certified: Security Operations Analyst Associate (SC-200)
 - Microsoft Certified: Azure AI Fundamentals (AI-900)
 - ISC2 Certified in Cybersecurity (CC)
 - Microsoft Certified Professional (MCSE 2008)
